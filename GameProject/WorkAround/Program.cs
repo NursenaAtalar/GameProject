@@ -16,7 +16,7 @@ namespace GameProject
                 DateOfBirth = 1997,
                 FirstName = " Nursena",
                 LastName = "  Atalar ",
-                IdentityNumber=48016031700 
+                IdentityNumber=000000000 
             };
             userManager.Add(user1);
             
